@@ -1,0 +1,84 @@
+*, ::before, ::after{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+body{
+    
+    background-color: darkgray;
+}
+
+header li{
+    display: inline-block;
+    padding: 20px;    
+}
+
+header{
+    padding: 4px;
+    text-align: center;
+    background-color: crimson ;
+    
+}
+
+.logovalo{
+    width: 60px;
+}
+
+
+h3{
+    text-transform: uppercase;
+    color:black;
+}
+
+.container{
+    text-align: center;
+    
+}
+
+.maj{
+    border: 2px solid black;
+    width: 60%;
+}
+
+.maj:hover{
+    transform: translateY(10px);
+    opacity: 0.5 ;
+}
+
+.pack{
+    border: 2px solid black;
+    width: 60%;
+}
+
+.pack:hover{
+    transform: translateY(10px);
+    opacity: 0.5 ;
+}
+
+.compet{
+    border: 2px solid black;
+    width: 60%;
+}
+
+.compet:hover{
+    transform: translateY(10px);
+    opacity: 0.5 ;
+}
+
+.createur{
+    border: 2px solid black;
+    width: 60%;
+}
+
+.createur:hover{
+
+    transform: translateY(10px);
+    opacity: 0.5 ;
+}
+
+.logo{
+    margin-left: 700px;
+    margin-top: 10px;
+}
